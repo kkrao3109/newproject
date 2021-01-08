@@ -1,0 +1,6 @@
+class kk{
+
+            public static void main(string[] args){
+            sytem.out.println("This is my first program here");
+}
+}
